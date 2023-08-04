@@ -1,5 +1,5 @@
 # BMICalculator
-This app BMI uses TestUnit and AndroidTest for when you want to write a test your Application
+This app BMI uses UnitTesting and AndroidTesting for when you want to write a test your Application
 test coverage is important for your writing test
 
 # The show design app is very simple
