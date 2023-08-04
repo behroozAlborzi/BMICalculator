@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_rbtn_male">Male</string>
+    <string name="text_rbtn_female">Female</string>
+    <string name="tv_gender">Gender :</string>
+    <string name="tv_us_units">US Units ?</string>
+    <string name="tv_height">Height : </string>
+    <string name="edt_hint_cm">CM</string>
+    <string name="tv_weight">Weight :</string>
+    <string name="edt_hint_kg">KG</string>
+    <string name="btn_calculate">Calculate</string>
+    <!-- placeHolder pattern in string = %1$s , %2$s , %1$d , %1$i -->
+    <string name="main_lable_bmi">Your BMI is : %1$s Kg/M^2 \n %2$s</string>
+    <string name="height_in_cm">Height in Cm</string>
+    <string name="weight_in_kg">Weight in Kg</string>
+</resources>

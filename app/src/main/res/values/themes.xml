@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.BMICalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Color Primary -->
+        <item name="colorPrimary">@color/colorSecondary</item>
+        <item name="colorPrimaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Color Secondary -->
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <!-- Color Status Bar -->
+        <item name="android:statusBarColor">@color/colorSecondaryVariant</item>
+
+        <!-- Customize your theme here -->
+        <item name="switchStyle">@style/Widget.BMICalculate.CompoundButton.Switch</item>
+        <item name="radioButtonStyle">@style/Widget.BMICalculate.CompoundButton.RadioButton</item>
+        <item name="textInputStyle">@style/Widget.BMICalculate.TextInputLayout</item>
+        <item name="android:textViewStyle">@style/Widget.BMICalculate.TextView</item>
+    </style>
+
+<!--    <style name="Theme.BMICalculator" parent="Theme.BMICalculator" />-->
+
+</resources>
